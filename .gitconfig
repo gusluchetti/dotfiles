@@ -1,3 +1,5 @@
 [user]
 	email = gusta.luchetti@gmail.com
 	name = Gustavo Luchetti
+[pull]
+	rebase = false
